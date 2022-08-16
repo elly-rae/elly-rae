@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @elly-rae
-- 👀 I’m interested in music,reading books and gaming
+- 👋 Hi, I’m Kelly Nkomo
+- 👀 I’m interested in music, reading novels and travelling
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kellynkomo.kn@gmail.com
 
 <!---
 elly-rae/elly-rae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
