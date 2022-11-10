@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kelly Nkomo
 - 👀 I’m interested in music, reading novels and travelling
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kellynkomo.kn@gmail.com
 
 <!---
